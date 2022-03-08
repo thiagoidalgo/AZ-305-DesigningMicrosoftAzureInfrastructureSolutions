@@ -21,9 +21,12 @@ Tailwind Traders is planning on making some significant changes to their governa
 1. **Cost and accounting** 
 
     * What are different ways Tailwind Traders could organize their subscriptions and management groups. Which would be the best to meet their requirements? 
+    Criar uma subscrição para cada segmento Vestuario e Artigo Esportivos
+    em cada segmento criar 3 resource group um para cada departamento
+    gerenciamento de custos através de tags  e subscrição
 
     * Design two alternative hierarchies and explain your decision-making process.
-
+    
 2. **New development project** 
 
     * What are the different ways Tailwind Traders could track costs for the new development project?
